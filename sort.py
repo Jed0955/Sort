@@ -1,6 +1,6 @@
 def insert_sort(lst):
 	'''插入排序，将list中的元素按从小到大排序
-	'''
+	'''修改
 	for i in range(1,len(lst)):
 		x = lst[i]
 		j = i
